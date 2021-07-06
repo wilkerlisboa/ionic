@@ -28,4 +28,4 @@ Install the Ionic CLI with npm:</p>
     $ cd myApp
     $ ionic serve
    
-<p>There are a number of other ways to run an app, it's recommended to start with this workflow. To develop and test apps on devices and emulators, see the <a href="https://ionicframework.com/docs/developing/previewing"> Running an App Guide.</a></p>
+<p>There are a number of other ways to run an app, it's recommended to start with this workflow. To develop and test apps on devices and emulators, see the </p>
